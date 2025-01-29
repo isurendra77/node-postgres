@@ -12,7 +12,7 @@
     "@architect/sandbox": "^3.4.2"
   },
   "dependencies": {
-    "@architect/functions": "^3.13.9",
+    "@architect/functions": "^8.1.7",
     "pg": "^8.6.0"
   }
 }
